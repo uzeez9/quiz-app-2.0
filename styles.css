@@ -111,6 +111,7 @@ body {
 
 .question-number, .question-text {
     transition: color 0.3s; 
+    color: #f1f1f1;
 }
 
 .options-container {
